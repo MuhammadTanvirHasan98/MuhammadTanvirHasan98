@@ -5,7 +5,7 @@
 
 Passionate web developer focused on creating efficient and scalable web solutions. Constantly exploring new technologies and improving my craft.
 
-- 🔭 I’m currently working on this page. 
+- 📖 I’m currently studying B.Sc. in CSE.
 - 🌱 I’m currently learning Full Stack Web development and Typescript. 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about MERN Stack 
