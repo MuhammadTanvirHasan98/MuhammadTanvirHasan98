@@ -34,8 +34,7 @@ Passionate web developer focused on creating efficient and scalable web solution
 
 | Name \ Familiarity  | High  | Medium  | Low  |
 |---------------------|-------|---------|------|
-| **Languages 
-(Programming)**  | JavaScript, C++ | C  | TypeScript, Python  |
+| **Languages (Programming)**  | JavaScript, C++ | C  | TypeScript, Python  |
 | **Front-End**  | React JS, TanStack Query, HTML5, CSS3, Tailwind CSS | Next JS | Redux Toolkit |
 | **Back-End**  | Node JS, Express JS | MongoDB, Firebase | Nest JS |
 
