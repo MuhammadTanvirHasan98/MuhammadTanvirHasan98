@@ -1,6 +1,18 @@
-### Hi there 👋, 
-</br> Muhammad Here! Welcome to my profile.😊
-![](https://i.ibb.co/R7L2pS1/github-banner.jpg)
+# Hello, **Muhammad** here! 👋 Welcome to my profile.
+
+![Profile Views](https://img.shields.io/badge/Profile%20views-2.3k-blue)
+
+🌐 [muhammad.netlify.app](https://muhammad-tanvir-hasan.netlify.app/)  
+
+## 💻 Front-End Engineer  
+
+I love building **impactful products**. 🚀  
+
+---
+🔗 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](YOUR_TWITTER_URL)  
+
 
 Passionate web developer focused on creating efficient and scalable web solutions. Constantly exploring new technologies and improving my craft.
 
