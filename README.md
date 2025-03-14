@@ -1,7 +1,6 @@
 ### Hi there 👋, 
-</br> Assalamualaikum😊
+</br> Muhammad Here! Welcome to my profile.😊
 ![](https://i.ibb.co/R7L2pS1/github-banner.jpg)
-<img align="right" src="https://komarev.com/ghpvc/?username=MuhammadTanvirHasan98&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors Count" />
 
 Passionate web developer focused on creating efficient and scalable web solutions. Constantly exploring new technologies and improving my craft.
 
