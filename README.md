@@ -6,22 +6,13 @@
 
 ## 💻 Front-End Engineer  
 
-I love building **impactful products**. 🚀  
-
----
-🔗 **Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](YOUR_TWITTER_URL)  
-
-
-Passionate web developer focused on creating efficient and scalable web solutions. Constantly exploring new technologies and improving my craft.
+I love building **impactful products** & focusing on creating efficient and scalable web solutions. Constantly exploring new technologies and improving my craft.
 
 - 📖 I’m currently studying B.Sc. in CSE.
 - 🌱 I’m currently learning Full Stack Web development and Typescript. 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about MERN Stack 
-- 📫 How to reach me: muhammadtanvirhasan98@gmail.com 
-- ⚡ Fun fact: When I'm not coding, you can find me debugging my cooking recipes! 
+- 📫 How to reach me: officials.muhammadtanvir@gmail.com 
 
 
 <h3 align="left">Connect with me:</h3>
