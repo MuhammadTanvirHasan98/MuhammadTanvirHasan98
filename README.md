@@ -26,7 +26,7 @@ I love building **impactful products** & focusing on creating efficient and scal
 | Name \ Familiarity  | High  | Medium  | Low  |
 |---------------------|-------|---------|------|
 | **Languages (Programming)**  | JavaScript, C++ | C  | TypeScript, Python  |
-| **Front-End**  | React JS, TanStack Query, HTML5, CSS3, Tailwind CSS | Next JS | Redux Toolkit |
+| **Front-End**  | React JS, HTML5, CSS3, Tailwind CSS | Next JS, TanStack Query | Redux Toolkit |
 | **Back-End**  | Node JS, Express JS | MongoDB, Firebase | Nest JS |
 
 
