@@ -9,7 +9,7 @@
 I love building **impactful products** & focusing on creating efficient and scalable web solutions. Constantly exploring new technologies and improving my craft.
 
 - 📖 I’m currently studying B.Sc. in CSE.
-- 🌱 I’m currently learning Full Stack Web development and Typescript. 
+- 🌱 I’m currently learning Full Stack Web development, Typescript and React Native. 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about MERN Stack 
 - 📫 How to reach me: officials.muhammadtanvir@gmail.com 
