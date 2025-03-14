@@ -34,8 +34,9 @@ Passionate web developer focused on creating efficient and scalable web solution
 
 | Name \ Familiarity  | High  | Medium  | Low  |
 |---------------------|-------|---------|------|
-| **Languages (Programming)**  | JavaScript  | -  | -  |
-| **Front-End**  | HTML5, CSS3, Tailwind CSS, React.js, Next.js, Redux Toolkit  | Meraki UI  | -  |
-| **Back-End**  | Node.js, Express.js, Firebase, MongoDB  | -  | -  |
+| **Languages 
+(Programming)**  | JavaScript, C++ | C  | TypeScript, Python  |
+| **Front-End**  | React JS, TanStack Query, HTML5, CSS3, Tailwind CSS | Next JS | Redux Toolkit |
+| **Back-End**  | Node JS, Express JS | MongoDB, Firebase | Nest JS |
 
 
